@@ -23,6 +23,17 @@ After installation you can create a new project using the following command:
 lein new node-webkit-cljs-app [app-name-here]
 ```
 
+There are two build configurations 'dev' and 'prod'. You can start the compiler
+using the following command which will automatically build your Clojurescript
+and watch your files and recompile as needed.
+
+```
+lein cljsbuild auto dev
+```
+
+If the project was not created within your node-webkit directory and if Node-Webkit
+is not on your path simply copy your project to your Node-Webkit directory.
+
 If you do not have Node-Webkit it can be downloaded from:
 
 https://github.com/rogerwang/node-webkit
@@ -38,16 +49,6 @@ nw <your app name>
 ```
 
 Your new application should load up in Node-Webkit.
-
-# Clojurescript
-
-There are two build configurations 'dev' and 'prod'. You can start the compiler
-using the following command which will automatically build your Clojurescript
-and watch your files and recompile as needed.
-
-```
-lein cljsbuild auto dev
-```
 
 ## License
 
