@@ -27,4 +27,3 @@ lein cljsbuild auto dev
 --
 
 Frank Hale <frankhale@gmail.com>
-27 November 2013
