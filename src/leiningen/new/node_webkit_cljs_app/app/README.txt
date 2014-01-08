@@ -1,7 +1,7 @@
 Node-Webkit
 -----------
 
-Node-Webkit 0.8.3 is provided. If you'd like to view the Github repo for Node-Webkit please go to the following link:
+Node-Webkit 0.8.4 is provided. If you'd like to view the Github repo for Node-Webkit please go to the following link:
 
 https://github.com/rogerwang/node-webkit
 
