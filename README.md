@@ -45,7 +45,7 @@ Your new application should load up in Node-Webkit.
 
 ## License
 
-Copyright © 2013 Frank Hale
+Copyright © 2014 Frank Hale
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
