@@ -1,4 +1,4 @@
-(defproject node-webkit-cljs-app/lein-template "0.1.1"
+(defproject node-webkit-cljs-app/lein-template "0.1.2"
   :description "Lein template for a Node-Webkit Clojurescript app."
   :url "https://github.com/frankhale/lein-node-webkit-cljs-app-template"
   :license {:name "Eclipse Public License"

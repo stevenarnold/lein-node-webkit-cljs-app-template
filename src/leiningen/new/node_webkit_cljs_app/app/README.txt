@@ -1,7 +1,7 @@
 Node-Webkit
 -----------
 
-Node-Webkit 0.8.5 for Windows is provided. If you'd like to view the Github repo for Node-Webkit please go to the following link:
+Node-Webkit 0.9.2 for Windows is provided. If you'd like to view the Github repo for Node-Webkit please go to the following link:
 
 https://github.com/rogerwang/node-webkit
 
@@ -37,4 +37,4 @@ https://github.com/emezeske/lein-cljsbuild
 --
 
 Frank Hale <frankhale@gmail.com>
-18 March 2014
+24 March 2014

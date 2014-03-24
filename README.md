@@ -2,7 +2,7 @@
 
 A Leiningen template for Node-Webkit Clojurescript apps.
 
-NOTE: Currently this template assumes Windows and it provides the binary files for Node-Webkit runtime.
+NOTE: Currently this template assumes Windows and it provides the binary files for Node-Webkit runtime version 0.9.2.
 
 # Usage
 
@@ -27,9 +27,7 @@ lein new node-webkit-cljs-app [app-name-here]
 
 Change the directory to your new project and follow the instructions below in order to compile the ClojureScript so your application can be ran.
 
-There are two build configurations 'dev' and 'prod'. You can start the compiler
-using the following command which will automatically build your Clojurescript
-and watch your files and recompile as needed.
+You can start the compiler using the following command which will automatically build your Clojurescript and watch your files and recompile as needed.
 
 ```
 lein cljsbuild auto dev
